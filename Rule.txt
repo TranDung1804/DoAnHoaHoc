@@ -1,0 +1,1183 @@
+R1: H2 + O2 -> H2O
+R2: Fe + H2O -> FeO + H2
+R3: Fe + H2O -> Fe2O3 + H2
+R4: Fe + H2O -> Fe3O4 + H2
+R5: CH4 + H2O -> CO + H2
+R6: NaCl + H2O -> NaOH + H2 + Cl2
+R7: H2O -> H2 + O2
+R8: CO + H2O -> CO2 + H2
+R10: Li + O2 -> Li2O
+R11: Li2O2 + CO2 -> LiCO3 + O2
+R13: Na2CO3 + C -> Na + CO
+R14: NaOH + Na -> Na2O + H2
+R15: Na2O2 + Na -> Na2O
+R16: NaNO2 + Na -> Na2O + N2
+R17: Na + O2 -> Na2O + Na2O2
+R18: Na2CO3 -> Na2O + CO2
+R19: Na2O + SiO2 -> Na2SiO3
+R20: NaOH + HCl -> NaCl + H2O
+R21: NaOH + SO2 -> Na2SO3 + H2O
+R22: NaOH + SO2 -> NaHSO3
+R23: NaOH + CO2 -> NaHCO3
+R24: NaOH + CO2 -> Na2CO3 + H2O
+R25: NaOH + CuCl2 -> NaCl + Cu(OH)2
+R27: NaCl + H2O -> NaOH + H2 + Cl2
+R28: Na2CO3 + HCl -> NaCl + H2O + CO2
+R29: Na2CO3 + Ca(OH)2 -> NaOH + CaCO3
+R30: Na2CO3 + CaCl2 -> NaCl + CaCO3
+R31: Na + NH3 -> NaNH2 + H2
+R32: NaNH2 + H2O -> NH3 + NaOH
+R33: NaNH2 + O2 -> Na2O2 + NO2 + H2O
+R34: HF + NaOH -> NaF + H2O
+R35: HF + NaF -> NaHF2
+R36: Cl2 + NaOH -> NaCl + NaClO + H2O
+R37: NaClO + Zn -> ZnO + NaCl
+R38: NaClO + HCl -> Cl2 + H2O + NaCl
+R39: NaClO + CH3COOH -> HClO + CH3COONa
+R40: 3NaClO -> NaClO3 + 2NaCl
+R41: NH4OH + NaOCl -> NaOH + NH2Cl + H2O
+R42: H2O2 + NaOCl -> NaCl + H2O + O2
+R43: NaHSO3 + Zn -> Na2S2O4 + Zn(OH)2
+R44: Na2S2O4 + H2O -> Na2S2O3 + NaHSO3
+R45: Na2S2O4 + O2 + H2O -> NaHSO4 + NaHSO3
+R46: H2S2O4 -> SO2 + S + H2O
+R47: H2S2O4 -> SO2 + H2S + H2O
+R48: Na2S2O4 + NaOH -> Na2SO3 + Na2S + H2O
+R49: NaHSO3 + MnO2 -> Na2S2O6 + MnO + H2O
+R50: Na2SO3 + Ag2SO3 -> Na2S2O6 + Ag
+R51: Cl2 + Na2S2O3 + 5H2O + NaOH -> Na2S2O6 + NaCl + H2O
+R52: NaOMe + H2S -> NaHS + MeOH
+R54: MgCl2 + K -> Mg + KCl
+R55: H2SO4 + KOH -> KHSO4 + H2O
+R56: KOH + Cl2 -> KClO3 + KCl + H2O
+R57: KCl + H2O->KOH + H2 + Cl2
+R58: KOH + Cl2->KCl + KClO3 + H2O
+R59: K2FeO4 + H2O -> O2 + Fe2O3 + KOH
+R60: K2FeO4 -> K3FeO4 + KFeO2 + O2
+R62: K2FeO4 + H2O -> FeO(OH) + KOH + O2
+R64: K2FeO4 + H2SO4 -> Fe2(SO4)3 + K2SO4 + O2 + H2O
+R67: KI + CO2 + O2 -> K2CO3 + I2
+R68: KI(l) + I2(R) -> KI3(l)
+R69: KI(l) + AgNO3(l) -> AgI(R) + KNO3(l)
+R71: KNO3 + S + C -> tOK2S + CO2 + N2.
+R72: H2SO4 + KNO3 -> K2SO4 + HNO3.
+R73: KClO4 + C6H12O6 -> H2O + CO2 + KCl
+R74: KCl + H2SO4 -> HCl + K2SO4
+R77: Mg(OH)2 + CO2 -> Mg(HCO3)2
+R78: Mg2 + HCO3 -> MgCO3 + CO2 + H2O
+R79: Mg3Si2O5(OH)4 + CO2 -> Mg3Si4O10(OH)2 + MgCO3 + H2O.
+R80: Mg + Si -> Mg2Si
+R81: Mg + Si -> Mg2Si
+R82: Mg + P -> Mg3P2
+R83: Mg + CO2 -> C + MgO
+R84: H2O + Mg -> H2 + MgO
+R85: AlCl3 + Mg -> Al + MgCl2
+R86: Mg + SO2 -> S + MgO
+R87: Mg + N -> Mg3N2
+R88: H2SO4 + Mg -> H2 + MgSO4
+R89: Mg + FeCl3 -> FeCl2 + MgCl2
+R90: HNO3 + Mg -> H2O + Mg(NO3)2 + N2
+R91: HNO3 + Mg -> H2O + Mg(NO3)2 + N2O
+R92: Cl2 + Mg -> MgCl2
+R93: Mg + N2O4 -> Mg(NO3)2 + NO
+R94: Mg + SiO2 -> Si + MgO
+R95: Mg + ZnCl2 -> Zn + MgCl2
+R96: Mg + FeSO4 -> Fe + MgSO4
+R97: Mg + Fe(NO3)3 -> Fe + Mg(NO3)2
+R98: Mg + SiO2 -> MgO + Mg2Si
+R99: FeS + Mg -> Fe + MgS
+R100: Mg + S -> MgS
+R101: H2S + Mg -> H2 + MgS
+R102: Mg + SiC -> MgC2 + Mg2Si
+R103: Mg + NH3 -> H2 + Mg3N2
+R104: Mg + BeO -> MgO + Be
+R105: Mg + Li2O -> Li + MgO
+R106: Mg + HfCl4 -> MgCl2 + Hf
+R107: Mg + BeF2 -> Be + MgF2
+R108: Mg + P4 -> Mg3P2
+R109: F2 + Mg -> MgF2
+R110: H2O + Mg -> H2 + Mg(OH)2
+R111: Mg + H3PO4 -> H2 + Mg3(PO4)2
+R112: AgNO3 + Mg -> Ag + Mg(NO3)2
+R113: Mg + B2O3 -> MgO + 2B
+R114: Mg + CuSO4 -> Cu + MgSO4
+R115: Mg + CuCl2 -> Cu + MgCl2
+R116: Mg + HBR -> H2 + MgBR2
+R117: Al2(SO4)3 + Mg -> Al + MgSO4
+R118: HNO3 + 4Mg -> H2O + Mg(NO3)2 + NH4NO3
+R119: Mg + H3BO3 -> H2O + MgO + B
+R120: HNO3 + Mg -> H2O + Mg(NO3)2 + NO2
+R121: H2SO4 + Mg -> H2O + S + MgSO4
+R122: H2SO4 + Mg -> H2O + SO2 + MgSO4
+R123: H2SO4 + Mg -> H2O + H2S + MgSO4
+R124: HNO3 + Mg -> H2O + Mg(NO3)2 + NO
+R126: Ca + N2 -> Ca3N2
+R127: Ca + H2O -> Ca(OH)2 + H2
+R128: Ca + Cl2 -> CaCl2
+R129: Ca + HNO3 -> Ca(NO3)2 + H2O + NH4NO3
+R130: Ca + O2 -> CaO
+R131: Ca + P -> Ca3P2
+R132: Ca + RbCl -> CaCl2 + Rb
+R133: Ca + HCl -> H2 + CaCl2
+R134: Ca + H2 -> CaH2
+R135: Ca + S -> CaS
+R136: Ca + H2O -> CaO + CaH2
+R137: Ca + CeO2 -> CaO + Ce2O3
+R138: Ca + PCl3 -> CaC2 + P
+R139: Ca + NH3 -> Ca3N2 + CaH2
+R140: Ca + UF3 -> CaF2 + U
+R141: Ca + Si -> Ca2Si
+R142: Ca + F2 -> CaF2
+R143: Ca + I2 -> CaI2
+R144: BR2 + Ca -> CaBR2
+R145: H2O + Ba -> H2 + Ba(OH)2
+R146: S + Ba -> BaS
+R147: C + Ba -> BaC2
+R148: O2 + 2Ba -> 2BaO
+R149: N2 + 3Ba -> Ba3N2
+R150: H2 + Ba -> BaH2
+R151: H2S + Ba -> H2 + BaS
+R152: NH3 + Ba -> BaH2 + Ba3N2
+R153: HCl + Ba -> BaCl2 + H2
+R158: Cl2 + Sc -> ScCl3
+R159: HCl + Sc -> H2 + ScCl3
+R161: O2 + Ti -> TiO2
+R163: ZRCl4 + ZR -> ZRCl3
+R165: SiO2 + HF -> H2O + SiF4
+R166: NaOH + HF -> H2O + NaF
+R167: SO2Cl2 + HF -> HCl + SO2F2
+R168: HF -> F2 + H2
+R169: I2 + Hf -> HfI4
+R170: Sb2O3 + Hf -> H2O + SbF3
+R171: SbCl5 + Hf -> Hl + SbF5
+R174: SO3 + HF -> HSO3F
+R175: BR2 + Hf -> HfBR4
+R179: C2H2 + Hf -> C2H3F
+R180: SiF4 + HF -> H2SiF6
+R181: H2O + Hf -> H2 + HfO2
+R186: CR + S -> CR2S3
+R187: CR + O2 -> CRO
+R188: CR + N2 -> CRN
+R189: CR + HCl -> H2 + CRCl2
+R190: CR + HCl -> H2 + CRCl2
+R191: CR + O2 -> CR2O3
+R192: CR + O2 -> CR2O3
+R193: Cl2 + CR -> CRCl3
+R194: CR + F2 -> CRF5 + CRF6
+R195: CR + HNO3 -> H2O + NO + CR(NO3)3
+R196: CR + HCl + O2 -> H2 + H2O + CRCl3
+R197: CR + NaNO3 + NaOH -> H2O + NaNO2 + Na2CRO4
+R198: CR + CRCl3 -> CRCl2
+R199: CR + I2 -> CRI2
+R200: CR + Si -> CRSi2
+R201: CR + F2 -> CRF4
+R202: CR + I2 -> CRI3
+R203: CR + H2SO4 -> H2 + CRSO4
+R204: CR + KClO3 -> KCl + CR2O3
+R205: CR + F2 -> CRF5 + CRF5
+R206: CR + H2SO4 -> H2O + SO2 + CR2(SO4)3
+R207: CR + HNO3 -> H2O + NO2 + CR(NO3)3
+R209: Mn + O2 -> MnO
+R210: AlCl3 + Mn -> Al + MnCl2
+R211: Mn + O2 -> MnO2
+R212: HCl + Mn -> H2 + MnCl2
+R213: AgNO3 + Mn -> Ag + Mn(NO3)2
+R214: HNO3 + Mn -> H2O + NO2 + Mn(NO3)2
+R215: HNO3 + Mn -> H2O + NO + Mn(NO3)2
+R217: Fe + HCl -> FeCl2 + H2
+R218: Cl2 + Fe -> FeCl3
+R219: Fe + O2 -> Fe3O4
+R220: Fe + CuSO4 -> Cu + FeSO4
+R221: Fe + FeCl3 -> FeCl2
+R222: Fe + S -> FeS
+R223: Cu(NO3)2 + Fe -> Cu + Fe(NO3)2
+R224: Fe + O2 -> Fe2O3
+R225: Fe + H2O -> FeO + H2
+R226: Fe + H2O -> H2 + Fe3O4
+R227: Fe + CuCl2 -> Cu + FeCl2
+R228: Fe + H2SO4 -> Fe2(SO4)3 + H2O + SO2
+R229: Fe + HNO3 -> H2O + NO2 + Fe(NO3)3
+R230: Fe + HCl + Fe3O4 -> FeCl2 + H2O
+R231: Fe + H2O2 -> Fe(OH)3
+R232: F2 + Fe -> FeF3
+R233: AgNO3 + Fe -> Ag + Fe(NO3)2
+R234: Fe + H2O -> H2 + Fe3O4
+R235: Fe + HNO3 -> Fe(NO3)2 + H2O + NH4NO3
+R236: AgNO3 + Fe -> Ag + Fe(NO3)3
+R237: Fe + H2O + O2 -> Fe2O3.nH2O
+R238: Fe + Fe(NO3)3 -> Fe(NO3)2
+R239: Fe + H2O + KOH -> H2 + K2FeO4
+R241: Fe + Si -> FeSi2
+R242: CO + Fe -> Fe(CO)5
+R243: Fe + H2SO4 -> H2 + FeSO4
+R244: BR2 + Fe -> FeBR3
+R245: Fe + Fe2O3 -> FeO
+R246: Fe + Fe3O4 -> FeO
+R247: BR2 + Fe -> FeBR2
+R248: Fe + HgS -> FeS + Hg
+R249: Fe + O2 + P4 -> Fe3(PO4)2
+R250: Fe + SO2 -> FeSO3 + FeS2O3
+R251: Fe + Pb(NO3)2 -> Fe(NO3)2 + Pb
+R252: Fe + NiCl2 -> FeCl2 + Ni
+R253: Fe + NO2Cl -> Fe2O3 + NOCl
+R254: Fe + NO2F -> Fe2O3 + NOF
+R255: Fe + Sb2S3 -> FeS + Sb
+R256: Fe + Bi2S3 -> FeS + Bi
+R257: Fe + (CH3COO)2Cu -> Cu + (CH3COO)2Fe
+R259: HNO3 + Ni -> H2 + Ni(NO3)2
+R260: HCl + Ni -> H2 + NiCl2
+R261: BR2 + Ni -> NiBR2
+R262: PH3 + Ni -> Ni(PH3)4
+R263: Ni + PF3 -> Ni(PF3)4
+R264: O2 + Ni -> NiO
+R265: Cl2 + Ni -> NiCl2
+R266: AgNO3 + Ni -> Ag + Ni(NO3)2
+R270: Cl2 + Pt -> PtCl2
+R271: Cl2 + Pt -> PtCl4
+R272: F2 + Pt -> PtF4
+R273: Pt + XeF4 -> Xe + PtF4
+R274: KCl + Pt + K2PtCl6 -> K2PtCl4
+R277: AgNO3 + Cu -> Ag + Cu(NO3)2
+R278: Cu + H2SO4 -> H2O + SO2 + CuSO4
+R279: Cu + S -> CuS
+R280: Cl2 + Cu -> CuCl2
+R281: Cu + HNO3 -> Cu(NO3)2 + H2O + NO2
+R282: Cu + H2S + O2 -> CuS + H2O
+R283: Cu + H2SO4 + Al(NO3)3 -> Al2(SO4)3 + Cu(NO3)2 + H2O + NO + CuSO4
+R284: Cu + Fe(NO3)3 -> Cu(NO3)2 + Fe(NO3)2
+R285: Cu + FeCl3 -> FeCl2 + CuCl2
+R286: Cu + HNO3 -> Cu(NO3)2 + H2O + NO
+R287: Cu + S -> Cu2S
+R288: Cu + H2SO4 + O2 -> H2O + CuSO4
+R289: CH3COOH + Cu + H2O2 -> H2O + O2 + (CH3COO)2Cu
+R290: Cu + Cu(NO3)2 + 8HCl -> H2O + NO + CuCl2
+R291: Cu + HCl + NaNO3 -> Cu(NO3)2 + H2O + NaCl + NO
+R292: Cu + N2O4 -> Cu(NO3)2 + 2NO
+R293: Cu + HCl + NaNO3 -> H2O + NaCl + NO + CuCl2
+R294: Cu + O2 -> CuO
+R295: Cu + CuO -> Cu2O
+R296: Cu + O2 -> Cu2O
+R297: BR2 + Cu -> CuBR2
+R298: Cu + N2O -> N2 + Cu2O
+R299: Cu + HCl -> H2 + CuCl2
+R300: Cu + OF2 -> CuO + CuF2
+R301: Cu + SO2 -> CuO + Cu2S
+R302: Cu + NF3 -> CuF2 + N2F4
+R303: Cu + H2S2O7 -> H2SO4 + SO2 + CuSO4
+R304: Cu + Hg2(NO3)2 -> Cu(NO3)2 + Hg
+R305: Cu + Fe2(SO4)3 -> FeSO4 + CuSO4
+R306: Cu + HCl -> H2 + H[CuCl2]
+R307: Cu + H2O2 + H2SO4 -> H2O + CuSO4
+R308: Cu + H2O + O2 + CO2 -> Cu2CO3(OH)2
+R309: CO + Cu + ReBR3 -> CuBR + Re(CO)5BR
+R310: Cu + H2O + O2 + CO2 -> Cu(OH)2 + CuCO3
+R311: Cu + H2O + KCN -> H2 + KOH + K[Cu(CN)2]
+R312: Cu + H2SO4 + NaNO3 -> 4H2O + Na2SO4 + NO + CuSO4
+R313: Cu + H2SO4 + Fe(NO3)3 -> Fe2(SO4)3 + H2O + NO + CuSO4
+R314: Cu + H2SO4 + NaNO3 -> Cu(NO3)2 + H2O + Na2SO4 + 2NO
+R315: Cu + H2SO4 + KNO3 -> H2O + NO + K2SO4 + CuSO4
+R318: Ag + O2 -> Ag2O
+R319: Ag + O3 -> Ag2O + O2
+R320: Ag + HNO3 -> AgNO3 + H2O + NO2
+R321: Ag + HNO3 -> AgNO3 + H2O + NO
+R322: Ag + H2S + O2 -> H2O + Ag2S
+R323: Ag + AgF -> Ag2F
+R324: Ag + F2 -> AgF2
+R325: Ag + HCl -> AgCl + H2
+R326: Ag + O2 + SO2 -> Ag2SO4
+R327: Ag + ClF3 -> Cl2 + 3AgF2
+R328: Ag + H2SO4 -> H2O + SO2 + Ag2SO4
+R329: Ag + H2O2 + HF -> H2O + AgF
+R330: Ag + H2S -> H2 + Ag2S
+R331: Ag + H2SeO4 -> H2O + Ag2SeO4 + H2SeO3
+R334: Au + HCl + HNO3 -> H2O + NO + AuCl3
+R335: Au + HCl + HNO3 -> AlCl3 + H2O + NO
+R336: Au + F2 -> AuF3
+R337: Au + KRF2 -> KR + AuF5
+R338: Au + Cl2 -> AuCl3
+R339: Au + KAg(CN)2 -> Ag + K[Au(CN)2]
+R340: Au + KRF2 -> KR + [KRF][AuF6]
+R341: Au + KAg(CN)2 -> Ag + KAu(CN)2
+R342: Au + H2O + O2 + NaCN -> NaOH + Na[Au(CN)2]
+R344: HCl + Zn -> H2 + ZnCl2
+R345: H2SO4 + Zn -> H2 + ZnSO4
+R346: Zn + CuSO4 -> Cu + ZnSO4
+R347: Cl2 + Zn -> ZnCl2
+R348: FeCl2 + Zn -> Fe + ZnCl2
+R349: Zn + SiCl4 -> Si + ZnCl2
+R350: H2SO4 + Zn -> H2O + SO2 + ZnSO4
+R351: NaNO3 + NaOH + Zn -> H2O + NH3 + Na2ZnO2
+R352: Zn + CRCl3 -> ZnCl2 + CRCl2
+R353: Zn + H3PO4 -> H2 + Zn3(PO4)2
+R354: Zn + FeCl3 -> FeCl2 + ZnCl2
+R355: Zn + CuCl2 -> Cu + ZnCl2
+R356: H2O + Zn -> H2 + Zn(OH)2
+R357: H2SO4 + Zn -> H2O + H2S + ZnSO4
+R358: Zn + FeCl3 -> Fe + FeCl2 + ZnCl2
+R359: O2 + Zn -> ZnO
+R360: P + Zn -> Zn3P2
+R361: S + Zn -> ZnS
+R362: NaOH + Zn -> H2 + Na2ZnO2
+R363: HNO3 + Zn -> H2O + NH4NO3 + Zn(NO3)2
+R364: KNO3 + KOH + Zn -> H2O + NH3 + K2ZnO2
+R365: SO2 + Zn -> ZnS2O4
+R366: Zn + Fe(NO3)3 -> Fe + Zn(NO3)2
+R367: Zn + CH2BRCH2CH2BR -> C3H6 + ZnBR2
+R368: Zn + NaHSO3 -> Zn(OH)2 + Na2S2O4
+R369: HNO3 + Zn -> H2O + NO + NO2 + N2O + Zn(NO3)2
+R370: Zn + CR2(SO4)3 -> ZnSO4 + CRSO4
+R371: H2O + O2 + Zn -> Zn(OH)2
+R372: Zn + C6H4CH3OH -> ZnO + C6H5CH3
+R373: H2O + Zn -> H2 + ZnO
+R374: SO2 + Zn -> ZnO + ZnS
+R375: C2H4BR2 + Zn -> C2H4 + ZnBR2
+R376: H2SO4 + KMnO4 + Zn -> H2O + MnSO4 + ZnSO4 + K2SO4
+R377: I2 + Zn -> ZnI2
+R378: Zn + Fe(NO3)3 -> Fe(NO3)2 + Zn(NO3)2
+R379: AgNO3 + Zn -> Ag + Zn(NO3)2
+R380: Pb(NO3)2 + Zn -> Pb + Zn(NO3)2
+R381: Zn + Na[Ag(CN)2] -> Na2[Zn(CN)4] + Ag
+R382: Zn + CdSO4 -> ZnSO4 + Cd
+R383: Zn + KAg(CN)2 -> Ag + K2[Zn(CN)4]
+R384: HI + Zn -> H2 + ZnI2
+R385: Fe2(SO4)3 + Zn -> Fe + ZnSO4
+R386: Zn + SnCl2 -> ZnCl2 + Sn
+R387: Hg(NO3)2 + Zn -> Hg + Zn(NO3)2
+R388: 2CH3COOH + Zn -> H2 + (CH3COO)2Zn
+R389: Ca(OH)2 + Zn -> H2 + CaZnO2
+R390: HNO3 + Zn -> H2O + NO2 + Zn(NO3)2
+R391: HNO3 + Zn -> H2O + N2O + Zn(NO3)2
+R392: O2 + Zn + NH4OH -> H2O + [Zn(NH3)4](OH)2
+R393: NH4Cl + Zn -> H2 + HCl + [Zn(NH3)4]Cl2
+R394: NaOH + SO2 + Zn -> Zn(OH)2 + Na2S2O4
+R395: H2O + H2SO4 + Zn -> H2 + ZnSO4.7H2O
+R396: HNO3 + Zn -> 4H2O + NO + Zn(NO3)2
+R397: H2O + NaOH + Zn -> H2 + Na2[Zn(OH)4]
+R398: Zn + HBR + Cf -> H2 + ZnBR2 + CfBR2
+R399: HCl + Zn + C6H5NO2 -> C6H5NH3Cl + H2O + ZnCl2
+R400: HNO3 + Zn ->H2O + NO + NO2 + Zn(NO3)2
+R401: HCl + Zn + (NH4)2MOO4 -> H2O + NH4Cl + ZnCl2 + MOCl2
+R403: Hg + S -> HgS
+R404: Hg + HNO3 -> H2O + Hg(NO3)2 + 2NO
+R405: H2SO4 + Hg -> H2O + SO2 + HgSO4
+R406: Hg + Hg(NO3)2 -> Hg2(NO3)2
+R407: Hg + O2 -> HgO
+R408: BR2 + Hg -> HgBR2
+R409: Hg + HgBR2 -> Hg2BR2
+R410: Cl2 + Hg -> HgCl2
+R411: Hg + HgCl2 -> Hg2Cl2
+R412: Hg + I2 -> HgI2 + Hg2I2
+R413: Hg + H2SeO4 -> H2O + SeO2 + Hg2SeO4 + HgSeO4
+R414: Hg + I2 -> HgI2
+R415: Hg + N2O4 -> Hg(NO3)2 + NO
+R416: Hg + XeF6 -> Xe + HgF2
+R417: Hg + XeF4 -> Xe + HgF2
+R420: Al + O2 -> Al2O3
+R421: Al + BR2 -> AlBR3
+R422: Al + CuO -> Al2O3 + Cu
+R423: Al + Fe2O3 -> Al2O3 + Fe
+R424: Al + I2 -> AlI3
+R425: Al + CuCl2 -> AlCl3 + Cu
+R426: Al + F2 -> AlF3
+R427: Al + Fe3O4 -> Al2O3 + Fe
+R428: Al + FeCl3 -> AlCl3 + FeCl2
+R429: Al + FeSO4 -> Al2(SO4)3 + Fe
+R430: Al + H2SO4 -> Al2(SO4)3 + H2
+R431: Al + HCl -> AlCl3 + H2
+R432: Al + NH3 -> AlN + H2
+R433: Al + H2O + NaOH -> H2 + NaAlO2
+R434: Al + HNO3 -> H2O + NO2 + Al(NO3)3
+R435: Al + NH4ClO4 -> Al2O3 + H2O + HCl + N2
+R436: Al + C -> Al4C3
+R437: Al + Cl2 -> AlCl3
+R438: Al + CR2O3 -> Al2O3 + CR
+R439: Al + Cu(NO3)2 -> Cu + Al(NO3)3
+R440: Al + CuSO4 -> Al2(SO4)3 + Cu
+R441: Al + HBR -> H2 + AlBR3
+R442: Al + Fe(NO3)3 -> Fe(NO3)2 + Al(NO3)3
+R443: Al + H2O + Ba(OH)2 -> H2 + Ba(AlO2)2
+R444: Al + HNO3 -> H2O + NH4NO3 + Al(NO3)3
+R445: Al + HNO3 -> H2O + NO + Al(NO3)3
+R446: Al + HNO3 -> H2O + N2O + Al(NO3)3
+R447: Al + S -> Al2S3.
+R448: Al + FeCl2 -> AlCl3 + Fe
+R449: Al + H2O -> Al(OH)3 + H2
+R450: Al + SiO2 -> Al2O3 + Si
+R452: Al + Bi2(SO4)5 -> Al2(SO4)3 + Bi
+R453: Al + FeO -> Al2O3 + Fe
+R454: Al + Hg(CH3COO)2 -> Hg + Al(CH3COO)3
+R455: Al + ZnSO4 -> Al2(SO4)3 + Zn
+R456: Al + H2O + NaOH -> H2 + NaAl(OH)4
+R457: Al + CaO -> Al2O3 + Ca
+R458: Al + Fe(NO3)2 -> Fe + Al(NO3)3
+R459: Al + H2O + KOH -> H2 + KAlO2
+R460: Al + H2SO4 -> Al2(SO4)3 + H2O + S
+R461: Al + CO + CRCl3 -> AlCl3 + CR(CO)6
+R462: Al + H2SO4 -> Al2(SO4)3 + H2O + SO2
+R463: Al + H2O + NaOH -> H2 + Na[AlOH]4
+R464: Al + P4 -> AlP
+R465: Al + Te -> Al2Te3
+R466: Al + Mn3O4 -> Al2O3 + Mn
+R467: Al + H2O + KNO3 + KOH -> NH3 + KAl(OH)4
+R468: Al + Se -> Al2Se3
+R469: Al + NaO2 -> NaAlO2
+R470: Al + H2S -> Al2S3 + H2
+R471: Al + B2O3 -> Al2O3 + B
+R472: Al + FeCl3 -> AlCl3 + Fe
+R473: Al + KClO4 -> Al2O3 + KCl
+R474: Al + BaO -> Ba + Ba(AlO2)2
+R475: Al + CaO -> Ca + Ca(AlO2)2
+R476: Al + HF -> H2 + AlF3
+R477: Al + H2SO4 -> 4Al2(SO4)3 + H2O + 3H2S
+R478: Al + Na2SiF6 -> Si + AlF3 + Na3[AlF6]
+R479: Al + SOCl2 -> Al2O3 + Al2S3 + AlCl3
+R480: Al + C + B2O3 -> Al2O3 + B4C
+R481: Al + H2O + KOH -> H2 + KAl(OH)4
+R482: Al + K2SiF6 -> Si + AlF3 + K3AlF6
+R483: Al + K2CR2O7 -> Al2O3 + CR + KAlO2
+R484: Al + KOH.2H2O -> H2 + H2O + KAlO2
+R485: Al + KNO3 -> Al2O3 + N2 + KAlO2
+R486: Al + HNO3 -> H2O + N2 + NO + N2O + Al(NO3)3
+R487: Al + BR2 -> Al2BR6
+R488: Al + H2O -> Al2O3 + H2
+R489: AgNO3 + Al -> Ag + Al(NO3)3
+R490: Al + CH3COOH -> (CH3COO)3Al + H2
+R491: Al + Pb(NO3)2 -> Al(NO3)3 + Pb
+R492: Al + H3PO4 -> H2 + AlPO4
+R493: Al + HBR -> H2 + Al2BR6
+R494: Al + Ca3(PO4)2 -> Al2O3 + Ca3P2
+R495: Al + Ca(OH)2 + H2O -> H2 + Ca(AlO2)2
+R496: Al + HNO3 -> H2O + N2 + Al(NO3)3
+R497: Al + NaHSO4 -> Al2(SO4)3 + H2 + Na2SO4
+R498: Al + HNO3 -> H2O + NH3 + Al(NO3)3
+R499: Al + H2O + K3PO4 -> H2 + KAl(OH)4 + K2HPO4
+R500: Al + H2O + NaOH + C6H5NO2 -> C6H5NH2 + NaAl(OH)4
+R501: Al + H2O + H + NO3- -> NH3 + AlO2
+R502: Al + H2O + NaNO3 + NaOH -> NH3 + NaAlO2
+R503: Al + H2SO4 + K2CR2O7 -> Al2(SO4)3 + H2O + K2SO4 + CRSO4
+R506: C + CO2 -> CO
+R507: C + O2 -> CO2
+R508: C + H2 -> CH4
+R509: C + CaO -> CaC2 + CO
+R510: C + CuO -> Cu + CO2
+R511: C + H2O -> CO + H2
+R512: C + HNO3 -> H2O + NO2 + CO2
+R513: C + KNO3 + S -> K2S + N2 + CO2
+R514: Al2O3 + C -> CO + Al4C3
+R515: C + KClO3 -> KCl + CO2
+R516: C + CaO -> CaC2 + CO2
+R517: C + CaSO4 -> CO + CaS
+R518: C + Cu2O -> CO + Cu
+R519: C + FeO -> CO + Fe
+R520: C + SiO2 -> CO + Si
+R521: C + H2O -> H2 + CO2
+R522: C + ZnO -> CO + Zn
+R523: C + BaCO3 -> BaO + CO
+R524: C + SO2 -> CO + S
+R525: C + Fe(CRO2)2 -> CR + Fe + CO2
+R526: C + K2CR2O7 -> K2CO3 + CR2O3 + CO2
+R527: C + Na2CR2O7 -> CO + Na2CO3 + CR2O3
+R528: Al + C -> Al4C3
+R529: C + PbO -> CO + Pb
+R530: C + Na2SO4 -> Na2S + CO2
+R531: C + H2SO4 -> H2O + SO2 + CO2
+R532: C + KClO3 + S -> KCl + SO2 + CO2
+R533: C + Li -> Li2C2
+R534: C + O2 -> CO
+R535: C + NO2 -> N2 + CO2
+R536: C + MgO -> CO + Mg
+R537: C + KNO3 ->K2O + NO2 + CO2
+R538: C + NaNO3 -> NaNO2 + CO2
+R539: C + WO3 -> CO + WC
+R540: C + P4O10 -> CO + P4
+R541: C + HNO3 -> H2O + NO + CO2
+R542: C + Ca3(PO4)2 + SiO2 -> CO + P + CaSiO3
+R543: C + N2 -> C2N2
+R544: C + Be -> Be2C
+R545: C + SiO2 -> CO + SiO
+R546: C + Fe2O3 -> CO + Fe
+R547: C + B2O3 -> CO + B4C
+R548: C + K2CO3 + N2 -> CO + KCN
+R549: C + F2 -> CF4
+R550: C + B -> B4C
+R551: C + Ba -> BaC2
+R552: C + Ce -> CeC2
+R553: C + H2 -> C2H2
+R554: C + Na -> Na2C2
+R555: C + BiF5 -> CF4 + BiF3
+R556: C + N2O -> N2 + CO2
+R557: C + NiO -> CO + Ni
+R558: C + Li2CO3 -> CO + Li2O
+R559: C + SRCO3 -> CO + SRO
+R560: C + Na2CO3 -> CO + Na
+R561: C + CuO -> CO + Cu
+R562: C + In2O3 -> CO + In
+R563: C + NaBRO3 -> CO2 + NaBR
+R564: C + KO2 -> K2CO3 + CO2
+R565: C + H2 + N2 -> HCN
+R566: C + PbSO4 -> CO2 + PbS
+R567: C + TeO2 -> CO2 + Te
+R568: C + As2O5 -> CO2 + As
+R569: C + K2CO3 -> CO + K
+R570: C + CeO2 -> CO + Ce2O3
+R571: C + Na2SeO4 -> CO + Na2Se
+R572: C + MgO -> CO + MgC2
+R573: C + LiH -> C2H2 + Li2C2
+R574: C + NaH -> C2H2 + Na2C2
+R575: C + SiO2 -> Si + CO2
+R576: C + NaNO3 -> CO + NaNO2
+R577: C + KBRO3 -> KBR + CO2
+R578: C + Li -> CO + BeS
+R579: C + MgSO4 -> CO + MgS
+R580: C + BaSO4 -> CO + BaS
+R581: C + NaO2 -> Na2CO3 + CO2
+R582: C + Ca3(PO4)2 -> Ca3P2 + CO
+R583: C + K2O2 -> K2CO3 + K2O
+R584: C + CaCO3 -> CaO + CO
+R585: C + NF3 -> CF4 + N2F4
+R586: C + Li2SO4 -> CO + Li2S
+R587: C + BeO -> CO + Be2C
+R588: Al2O3 + C + Cl2 -> AlCl3 + CO
+R589: C + K2CR2O7 -> CO + K2CO3 + CR2O3
+R590: C + N2 + SiO2 -> CO + Si3N4
+R591: Al2O3 + C + N2 -> AlN + CO
+R592: C + Cl2 + ZRSiO4 -> CO + SiCl4 + ZRCl4
+R594: C + Cl2 + TiO2 -> CO + TiCl4 + CO2
+R595: C + Ca3(PO4)2 + SiO2 -> CO + CaSiO3 + P4
+R596: C + Na2SO4 + SiO2 -> Na2SiO3 + SO2 + CO2
+R597: C + S8 -> CS2
+R598: C + Fe3O4 -> Fe + CO2
+R599: C + HClO3 -> HCl + CO2
+R600: C + HBRO3 -> CO2 + HBR
+R601: C + SiO2 -> CO + SiC
+R602: C + CaCO3 -> CaC2 + CO
+R603: C + Cl2 + SiO2 -> CO + SiCl4
+R604: C + Ca3(PO4)2 -> CaO + CO + P
+R605: C + Na2CO3 + CaCN2 -> CaO + CO + NaCN
+R608: Mg + Si -> Mg2Si
+R609: F2 + Si -> SiF4
+R610: O2 + Si -> SiO2
+R611: H2O + KOH + Si -> H2 + K2SiO3
+R612: Cl2 + Si -> SiCl4
+R613: FeO + Si -> Fe + SiO2
+R614: H2O + NaOH + Si -> H2 + Na2SiO3
+R615: Si + SiO2 -> SiO
+R616: Si + SiF4 -> SiF2
+R617: Fe + Si -> FeSi2
+R618: N2 + Si -> Si3N4
+R619: H2O + Si -> H2 + SiO2
+R620: S + Si -> SiS2
+R621: I2 + Si -> SiI4
+R622: Si + NOF -> NO + SiF4
+R623: H2S + Si -> H2 + SiS2
+R624: BaO + Si -> Ba + BaSiO3
+R625: NH3 + Si -> H2 + Si3N4
+R626: HI + Si -> H2 + SiI4
+R627: Fe + O2 + Si -> Fe2SiO4 + FeSiO3
+R628: Si + NO2F -> NO + SiO2 + SiF4
+R629: HNO3 + Si + Hf -> H2O + 4NO + H2SiF6
+R630: Ca + Si -> Ca2Si
+R631: CR + Si -> CRSi2
+R632: Si + S8 -> SiS2
+R633: H2 + Si -> SiH4
+R634: Si + HF -> H2 + H2SiF6
+R635: Si + MgO -> Mg2Si + SiO
+R636: Si + CaH2 -> H2 + Ca2Si
+R637: Si + NOCl -> NO + SiCl4
+R638: NaOH + Si -> H2 + Na4SiO4
+R641: HNO3 + Sn -> H2O + NO2 + SnO2
+R642: S + Sn -> SnS2
+R643: SnO2 + Sn -> SnO
+R644: SnCl4 + Sn -> SnCl2
+R645: HCl + Sn -> H2 + SnCl2
+R646: HCl + Sn + C6H5NO2 -> C6H5NH2 + H2O + SnCl2
+R647: S + Sn -> SnS
+R649: Sn + H2SnCl6 -> HSnCl3
+R650: HCl + Sn -> H2 + HSnCl3
+R651: H2O + NaOH + Sn -> H2 + Na2[Sn(OH)6]
+R652: H2SO4 + Sn -> H2O + Sn(OH)2 + SO2
+R655: H2SO4 + Pb -> H2O + SO2 + Pb(HSO4)2
+R656: HNO3 + Pb -> H2O + Pb(NO3)2
+R657: O2 + Pb -> PbO
+R658: CsNO3 + Pb -> PbO + CsNO2
+R659: Pb + LiNO3 -> PbO + LiNO2
+R660: Pb + RbNO3 -> PbO + RbNO2
+R661: O2 + Pb -> Pb3O4
+R662: H2O + O2 + Pb -> Pb(OH)2
+R663: HNO3 + Pb -> H2O + NO + Pb(NO3)2
+R666: HNO3 + Ni -> H2 + Ni(NO3)2
+R667: HCl + Ni -> H2 + NiCl2
+R668: BR2 + Ni -> NiBR2
+R669: PH3 + Ni -> Ni(PH3)4
+R670: Ni + PF3 -> Ni(PF3)4
+R671: O2 + Ni -> NiO
+R672: Cl2 + Ni -> NiCl2
+R673: AgNO3 + Ni -> Ag + Ni(NO3)2
+R676: Cl2 + P -> PCl3
+R677: Cl2 + P -> PCl5
+R678: HNO3 + P -> H2O + NO2 + H3PO4
+R679: O2 + P -> P2O3
+R680: P + S -> P2S5
+R681: Mg + P -> Mg3P2
+R682: FeO + P -> Fe + P2O5
+R683: H2SO4 + P -> H2O + SO2 + H3PO4
+R684: K2CR2O7 + P -> K2O + P2O5 + CR2O3
+R685: H2O + HNO3 + P -> NO + H3PO4
+R686: H2 + P -> PH3
+R687: P + Zn -> Zn3P2
+R688: O2 + P -> P4O10
+R689: Ca + P -> Ca3P2
+R690: KClO3 + P -> KCl + P2O5
+R691: P + PBR5 -> PBR3
+R692: O2 + P -> P2O5
+R693: F2 + P -> PF5
+R694: I2 + P -> PI3
+R695: KClO3 + P -> KCl + P4O10
+R696: I2 + P + D2O -> DI + D3PO4
+R697: H2O2 + NaOH + P -> H2O + Na2H2P2O6
+R698: Fe + P -> FeP + Fe2P + Fe3P + FeP2
+R699: BR2 + P -> PBR3
+R700: Fe2O3 + P -> Fe + P2O5
+R701: HCl + P -> H2 + PCl3
+R702: H2O + KOH + P -> PH3 + KH2PO2
+R703: H2O + NaOH + P -> PH3 + NaH2PO4
+R704: BR2 + H2O + P -> H3PO4 + HBR
+R705: P + NH4ClO4 -> Cl2 + H2O + N2 + H3PO4
+R706: H2O + P + CuSO4 -> Cu + H2SO4 + HPO3
+R707: H2O + P + CuSO4 -> Cu + H2SO4 + H3PO4 + Cu3P2
+R710: CO + O2 -> CO2
+R711: Al + O2 -> Al2O3
+R712: Mg + O2 -> MgO
+R713: C + O2 -> CO2
+R714: Fe + O2 -> Fe3O4
+R715: C2H5OH + O2 -> H2O + CO2
+R716: CH3CHO + O2 -> CH3COOH
+R717: N2 + O2 -> NO
+R718: NO + O2 -> NO2
+R719: CH4 + O2 -> H2O + CO2
+R720: HCl + O2 -> Cl2 + H2O
+R721: NH3 + O2 -> H2O + N2
+R722: C2H4 + O2 -> H2O + CO2
+R723: FeCO3 + H2O + O2 -> CO2 + Fe(OH)3
+R724: O2 + CRO -> CR2O3
+R725: O2 + H2SO3 -> H2SO4
+R726: Fe + O2 -> Fe2O3
+R727: O2 + P -> P2O3
+R728: O2 + Fe3O4 -> Fe2O3
+R729: Ag + O2 -> Ag2O
+R730: FeO + O2 -> Fe2O3
+R731: O2 + P4 -> P4O10
+R732: O2 + HBR -> BR2 + H2O
+R733: O2 + ZnS -> SO2 + ZnO
+R734: HI + O2 -> H2O + I2
+R735: O2 + CR(OH)2 -> H2O + CR2O3
+R736: O2 + Cu2S -> CuO + SO2
+R737: O2 + SiH4 -> H2O + SiO2
+R738: C6H12O6 + O2 -> H2O + CO2
+R739: H2O + O2 + Fe(OH)2 -> Fe(OH)3
+R740: O2 + Fe(OH)2 -> Fe2O3 + H2O
+R741: C2H2 + O2 -> H2O + CO2
+R742: FeCO3 + O2 -> Fe2O3 + CO2
+R743: FeS + O2 -> Fe2O3 + SO2
+R744: H2S + O2 -> H2O + S
+R745: O2 + FeCu2S2 -> CuO + Fe2O3 + SO2
+R746: O2 + C4H6Cl2 -> H2O + HCl + CO2
+R747: Cu + H2S + O2 -> CuS + H2O
+R748: O2 + SiO2 + CuFeS2 -> Cu + SO2 + FeSiO2
+R749: Mn + O2 -> MnO
+R750: Na + O2 -> Na2O
+R751: O2 + Si -> SiO2
+R752: Na + O2 -> Na2O2
+R753: C2H5OH + O2 -> CH3COOH + H2O
+R754: CH4 + O2 -> H2O + HCHO2
+R9: H2O + O2 + CR(OH)2 -> CR(OH)3
+R755: O2 + C4H10 -> CH3COOH + H2O
+R756: FeS2 + O2 -> Fe2O3 + SO2
+R757: NH3 + O2 -> H2O + NO
+R758: H2S + O2 -> H2O + SO2
+R759: O2 + CuFeS2 -> CuO + Fe2O3 + SO2
+R760: CH4 + Cl2 + O2 -> H2O + CCl4
+R761: H2SO4 + O2 + FeSO4 -> Fe2(SO4)3 + H2O
+R762: CR + O2 -> CRO
+R763: C + O2 -> CO
+R764: O2 + Zn -> ZnO
+R765: O2 + SiF4 -> SiO2 + F2O
+R766: O2 + PH3 -> H2O + P2O5
+R767: O2 + CH3.CH2.OH -> H2O + CH3.COOH
+R768: CH4 + O2 -> CO + H2
+R769: Fe + H2O + O2 -> Fe2O3 + H2O
+R770: C6H5OH + O2 -> H2O + CO2
+R771: Ag + H2S + O2 -> H2O + Ag2S
+R772: KOH + MnO2 + O2 -> H2O + K2MnO4
+R773: Cu + H2SO4 + O2 -> H2O + CuSO4
+R774: HCl + O2 + CH2_CH2 -> H2O + ClCH2CH2Cl
+R775: O2 + Bi -> Bi2O3
+R776: Li + O2 -> Li2O
+R777: O2 + In -> In2O3
+R778: CR + O2 -> CR2O3
+R779: CR + O2 -> CR2O3
+R780: Ca + O2 -> CaO
+R781: O2 + Cd -> CdO
+R782: O2 + SF4 -> SOF4
+R783: O2 + Se -> SeO2
+R784: O2 + P -> P4O10
+R785: O2 + P4 -> P4O6
+R786: CH3COCH3 + O2 -> H2O + CO2
+R787: O2 + CH3CH2CH2CH3 -> CH3COOH + H2O
+R788: (CH3COO)2Ca + O2 + CR2O3 -> H2O + Na2CRO4
+R789: CR + HCl + O2 -> H2 + H2O + CRCl3
+R790: O2 + Cf -> CfO2
+R791: O2 + CH3CH2CHO -> CH3CH2COOH
+R792: O2 + As -> As2O3
+R793: O2 + U3O8 -> UO3
+R794: O2 + Sb -> Sb2O3
+R795: O2 + H -> H2O2
+R796: NaNO2 + O2 -> NaNO3
+R797: O2 + BaO2 -> BaO4
+R798: O2 + Na2O2 -> NaO2
+R799: Na2O + O2 -> Na2O2
+R800: N2 + O2 -> N2O3
+R801: KNO2 + O2 -> KNO3
+R802: O2 + KCN -> KOCN
+R803: CH3OH + O2 -> H2O + HCHO
+R804: H2O + O2 + SO2 -> H2SO4
+R805: CuS + O2 -> CuO + SO2
+R806: Cl2 + O2 + S -> SCl2O
+R807: O2 + P4S3 -> S + P4O6
+R808: O2 + H3As -> H2O + As2O3
+R809: O2 + CO(OH)2 -> H2O + COO(OH)
+R810: O2 + B2H6 -> H2O + B2O3
+R811: O2 + HgS -> Hg + SO2
+R812: H2O + NO2 + O2 -> HNO3
+R813: HCl + O2 + CRCl2 -> H2O + CRCl3
+R814: NH3 + O2 + C6H5CH3 -> H2O + C6H5CN
+R815: H2O + O2 + (SCN)2 -> H2SO4 + HCN + HNCS
+R816: Cu + O2 -> CuO
+R817: O2 + P -> P2O5
+R818: O2 + S -> SO2
+R819: O2 + SO2 -> SO3
+R821: O2 + KH -> KOH
+R822: O2 + Hf -> HfO2
+R823: O2 + Cf -> Cf2O3
+R824: O2 + Ge -> GeO2
+R825: O2 + BaS -> BaSO4
+R826: O2 + Pb -> PbO
+R827: O2 + CaS -> CaSO4
+R828: FeO + O2 -> Fe3O4
+R829: FeS + O2 -> FeSO4
+R830: K + O2 -> KO2
+R831: O2 + K2O2 -> KO2
+R832: Cu + O2 -> Cu2O
+R833: O2 + SiO -> Si2O3
+R834: O2 + PbS -> PbSO4
+R835: O2 + Na2S2O4 -> Na2S2O5
+R836: O2 + NaH -> NaOH
+R837: O2 + Ba -> BaO
+R838: BaO + O2 -> BaO2
+R839: Hg + O2 -> 2HgO
+R840: K2S + O2 -> K2SO4
+R841: O2 + Cu2O -> CuO
+R842: O2 + CR2S3 -> SO2 + CR2O3
+R843: O2 + CS2 -> SO2 + CO2
+R844: O2 + CCl4 -> Cl2 + COCl2
+R845: O2 + Mg3N2 -> N2 + MgO
+R846: O2 + C6H5CH(CH3)2 -> C6H5OH + CH3COCH3
+R847: O2 + Fe(OH)2 -> H2O + FeO(OH)
+R848: O2 + ZRCl4 -> Cl2 + ZRO2
+R849: O2 + CaH2 -> CaO + H2O
+R850: Fe + O2 + P4 -> Fe3(PO4)2
+R851: O2 + CsOH -> H2O + CsO2
+R852: Na2S2O3 + O2 -> Na2SO4 + S
+R853: O2 + Fe3C -> CO2 + Fe3O4
+R854: O2 + N2H4 -> H2O + N2
+R855: O2 + SnS2 -> SO2 + SnO2
+R856: O2 + Al4C3 -> Al2O3 + CO2
+R857: O2 + As2S3 -> SO2 + As2O3
+R858: H2O + O2 + Zn -> Zn(OH)2
+R859: O2 + BaH2 -> BaO + H2O
+R860: CH4 + O2 -> C + H2O
+R861: O2 + HgS -> HgO + SO2
+R862: O2 + Cu2S -> SO2 + Cu2O
+R863: Ag + O2 + SO2 -> Ag2SO4
+R864: O2 + SiS2 -> SiO2 + SO2
+R865: O2 + Na2S2O5 -> Na2SO4 + SO2
+R866: O2 + Ag2S -> Ag + SO2
+R867: O2 + Fe(C5H5)2 -> Fe2O3 + H2O + CO2
+R868: CH4 + Cl2 + O2 -> CH3Cl + H2O
+R869: CH4 + Cl2 + O2 -> H2O + CH2Cl2
+R870: CH4 + Cl2 + O2 -> H2O + CHCl3
+R871: H2O + O2 + Na2S2O4 -> NaHSO3 + NaHSO4
+R872: Mn + O2 -> MnO2
+R873: Fe + O2 -> FeO
+R874: O2 + Cs -> Cs2O2
+R875: O2 + Rb -> RbO2
+R876: O2 + Pb -> Pb3O4
+R877: CuS + O2 -> CuSO4
+R878: Na2SO3 + O2 -> Na2SO4
+R879: O2 + P4 -> P2O3
+R880: O2 + CR2O3 -> CRO2
+R881: O2 + HNO2 -> HNO3
+R882: O2 + K2SO3 -> K2SO4
+R883: C2H4 + O2 -> CH3CHO
+R884: O2 + ZnS -> ZnSO4
+R885: O2 + C5H12 -> H2O + CO2
+R886: O2 + C3H8 -> H2O + CO2
+R887: Fe + H2O + O2 -> Fe(OH)2
+R888: FeS2 + O2 -> SO2 + FeSO4
+R889: CH3OH + O2 -> H2O + HCOOH
+R890: O2 + C4H4 -> H2O + CO2
+R891: O2 + PbCO3 -> CO2 + Pb3O4
+R892: CaO + O2 + SO2 -> CaSO4
+R893: CuS + O2 -> Cu + SO2
+R894: O2 + HCOONa -> H2O + Na2CO3 + CO2
+R897: H2 + S -> H2S
+R898: Cu + S -> CuS
+R899: Fe + S -> FeS
+R900: C + KNO3 + S -> K2S + N2 + CO2
+R901: Cl2 + S -> S2Cl2
+R902: P + S -> P2S5
+R903: CR + S -> CR2S3
+R904: HNO3 + S -> H2SO4 + NO
+R905: NO2 + S -> N2 + SO2
+R906: H2O + S -> H2S + SO2
+R907: K2CR2O7 + S -> CR2O3 + K2SO4
+R908: HNO3 + S -> H2O + H2SO4 + NO2
+R909: Hg + S -> HgS
+R910: H2SO4 + S -> H2O + SO2
+R911: NaOH + S -> H2O + Na2S + Na2SO3
+R912: C + KClO3 + S -> KCl + SO2 + CO2
+R913: Na2SO3 + S -> Na2S2O3
+R914: Al + S -> Al2S3
+R915: K + S -> K2S
+R916: Cu + S -> Cu2S
+R917: F2 + S -> SF6
+R918: S + Zn -> ZnS
+R919: Na + S -> Na2S
+R920: KClO3 + S -> KCl + SO2
+R921: Cl2 + H2O + S -> H2SO4 + HCl
+R922: S + Sn -> SnS2
+R923: S + B -> B2S3
+R924: Cl2 + O2 + S -> SCl2O
+R925: Cl2 + S + NaF -> NaCl + SF4
+R926: O2 + S -> SO2
+R927: S + Ba -> BaS
+R928: Cl2 + S -> SCl2
+R929: Ca + S -> CaS
+R930: Mg + S -> MgS
+R931: S + Si -> SiS2
+R932: K2S + S -> K2S2
+R933: S + KO2 -> K2SO4
+R934: S + PbO2 -> SO2 + PbS
+R935: S + CsO3 -> Cs2SO4 + 2Cs2S2O7
+R936: S + NaClO2 -> NaCl + SO2
+R937: CH4 + S -> H2S + CS2
+R938: S + Cu2O -> SO2 + Cu2S
+R939: S + Na2CR2O7 -> Na2SO4 + CR2O3
+R940: Fe + S -> Fe2S3
+R941: S + K2SO3 -> K2S2O3
+R942: H2O + S + HClO -> H2SO4 + HCl
+R943: NaOH + S -> H2O + Na2S + Na2SO4
+R944: S + NH4OH -> H2O + (NH4)2S2O3 + NH4HS
+R947: Cl2 + F2 -> ClF
+R948: Cl2 + F2 -> ClF3
+R949: F2 + H2 -> HF
+R950: Al + F2 -> AlF3
+R951: F2 + SiO2 -> O2 + SiF4
+R952: F2 + Si -> SiF4
+R953: F2 + Fe -> FeF3
+R954: F2 + H2O -> O2 + 4HF
+R955: F2 + S -> SF6
+R956: F2 + Na -> NaF
+R957: Au + F2 -> AuF3
+R958: F2 + SO2 -> SO2F2
+R959: F2 + HClO4 -> H2O + O2 + ClO3F
+R960: C + F2 -> CF4
+R961: F2 + NO2 -> NO2F
+R962: F2 + ClF3 -> ClF5
+R963: F2 + NOF -> NOF3
+R964: F2 + N2 -> NF3
+R965: F2 + O2 -> O2F2
+R966: F2 + Sb2O3 -> O2 + SbF5
+R967: F2 + BCl3 -> Cl2 + BF3
+R968: F2 + NaNO2 -> NaF + NO2F
+R969: F2 + AuCl3 -> Cl2 + AuF3
+R970: F2 + H2O -> HOF + HF
+R971: F2 + CuCl2 -> Cl2 + CuF2
+R972: F2 + SO2Cl2 -> Cl2 + SO2F2
+R973: F2 + NiCl2 -> Cl2 + NiF2
+R974: F2 + SO2 -> O2 + SF6
+R975: AgCl + 2F2 -> Cl2 + AgF2
+R976: F2 + P4O10 -> O2 + POF3
+R977: F2 + CRCl3 -> Cl2 + CRF4
+R978: F2 + HgCl2 -> Cl2 + HgF2
+R979: BR2 + 3F2 -> BRF3
+R980: F2 + Be -> BeF2
+R981: Ca + F2 -> CaF2
+R982: F2 + Bi -> BiF3
+R983: F2 + PR -> PRF3
+R984: F2 + Mg -> MgF2
+R985: F2 + AsF3 -> AsF5
+R986: CR + F2 -> CRF4
+R987: F2 + NaCl -> Cl2 + NaF
+R988: F2 + KCl -> Cl2 + KF
+R989: F2 + KSO2F -> KF + SO2F2
+R990: F2 + CRO3 -> O2 + CRF5
+R991: CR + F2 -> CRF5 + CRF5
+R992: F2 + NaOH -> H2O + F2O + NaF
+R993: F2 + H2O -> H2O2 + F2O + HF
+R994: F2 + KOH + KBRO3 -> H2O + KF + KBRO4
+R997: Cl2 + Na -> NaCl
+R998: Cl2 + C3H8 -> HCl + C3H7Cl
+R999: Cl2 + Fe -> FeCl3
+R1000: Cl2 + P -> PCl3
+R1001: Cl2 + P -> PCl5
+R1002: Cl2 + H2O -> HCl + HClO
+R1003: Ca(OH)2 + Cl2 -> CaOCl2 + H2O
+R1004: Cl2 + NaOH -> H2O + NaCl + NaClO
+R1005: Cl2 + Cu -> CuCl2
+R1006: Cl2 + F2 -> ClF
+R1007: Cl2 + FeCl2 -> FeCl3
+R1008: Cl2 + S -> S2Cl2
+R1009: Cl2 + Zn -> ZnCl2
+R1010: Cl2 + F2 -> ClF3
+R1011: Cl2 + 6Fe(NO3)2 -> Fe(NO3)3 + FeCl3
+R1012: Cl2 + HBR -> BR2 + HCl
+R1013: Al + Cl2 -> AlCl3
+R1014: CaO + Cl2 -> CaOCl2
+R1015: Cl2 + FeSO4 -> Fe2(SO4)3 + FeCl3
+R1016: Cl2 + NH3 -> N2 + NH4Cl
+R1017: Cl2 + HI -> HCl + I2
+R1018: Cl2 + H2S -> HCl + S
+R1019: Cl2 + 2KI -> I2 + KCl
+R1020: Cl2 + H2O2 -> HCl + O2
+R1021: C2H2 + Cl2 -> C + HCl
+R1022: Cl2 + H2O -> HCl + O2
+R1023: CH4 + Cl2 -> HCl + CHCl3
+R1024: CH4 + Cl2 -> HCl + CCl4
+R1025: Cl2 + KBR -> BR2 + KCl
+R1026: Ca(OH)2 + Cl2 -> H2O + CaCl2 + Ca(ClO)2
+R1027: Cl2 + H2O + I2 -> 10HCl + 2HIO3
+R1028: Cl2 + H2SO4 + FeSO4 -> Fe2(SO4)3 + HCl
+R1029: Cl2 + H2O + H2SO3 -> H2SO4 + 2HCl
+R1030: Cl2 + KOH -> H2O + KCl + KClO3
+R1031: CH4 + Cl2 + O2 -> H2O + CCl4
+R1032: Cl2 + HCl + Fe3O4 -> H2O + FeCl3
+R1033: Cl2 + KOH + CRCl2 -> H2O + KCl + K2CR2O4
+R1034: Cl2 + K -> KCl
+R1035: Cl2 + Mg -> MgCl2
+R1036: Cl2 + Be -> BeCl2
+R1037: Cl2 + Li -> LiCl
+R1038: Ca + Cl2 -> CaCl2
+R1039: Cl2 + Si -> SiCl4
+R1040: CH4 + Cl2 -> C + HCl
+R1041: Cl2 + C6H5CH3 -> HCl + C6H5CH2Cl
+R1042: C6H6 + Cl2 -> C6H5Cl + HCl
+R1043: Cl2 + AlBR3 -> Al3 + ClBR2
+R1044: Cl2 + H2O + H2S -> H2SO4 + HCl
+R1045: Cl2 + H2O + S -> H2SO4 + HCl
+R1046: Cl2 + NaOH -> H2O + NaCl + NaClO3
+R1047: Cl2 + Pt -> PtCl2
+R1048: Cl2 + CR -> CRCl3
+R1049: Cl2 + Pt -> PtCl4
+R1050: C6H6 + Cl2 -> C6H6Cl6
+R1051: Cl2 + PCl3 -> PCl5
+R1052: Cl2 + NH3 -> NH4Cl + NH2Cl
+R1053: CH4 + Cl2 -> HCl + CH2Cl2
+R1054: Cl2 + H2O + NaHSO3 -> HCl + NaHSO4
+R1055: Cl2 + KOH -> H2O + KCl + KclO
+R1056: Cl2 + NaOH + CRCl3 -> H2O + NaCl + Na2CRO4
+R1057: Cl2 + KOH + CRI3 -> H2O + KCl + K2CRO4 + KIO4
+R1058: Cl2 + S2Cl2 -> SCl2
+R1059: Cl2 + CRCl2 -> CRCl3
+R1060: Cl2 + CRCl2 -> CRCl3
+R1061: Cl2 + O2 + S -> SCl2O
+R1062: CH4 + Cl2 -> CH3Cl + HCl
+R1063: Cl2 + H2 -> HCl
+R1064: CH3Cl + Cl2 -> HCl + CH2Cl2
+R1065: Cl2 + CH2Cl2 -> HCl + CHCl3
+R1066: Cl2 + CHCl3 -> HCl + CCl4
+R1067: Cl2 + I2 -> 2ICl
+R1068: Cl2 + S -> SCl2
+R1069: Cl2 + NaClO2 -> NaCl + ClO2
+R1070: Cl2 + CR(CO)6 -> CO + CRCl3
+R1071: Cl2 + LiH -> HCl + LiCl
+R1072: Al2O3 + C + Cl2 -> AlCl3 + CO
+R1073: Cl2 + NaClO3.3H2O -> H2O + NaCl + ClO3
+R1074: CH4 + Cl2 + O2 -> CH3Cl + H2O
+R1075: CH4 + Cl2 + O2 -> H2O + CH2Cl2
+R1076: CH4 + Cl2 + O2 -> H2O + CHCl3
+R1077: C + Cl2 + ZRSiO4 -> CO + SiCl4 + ZRCl4
+R1078: C + Cl2 + TiO2 -> CO + TiCl4 + CO2
+R1079: Cl2 + NaHCO3 -> H2O + NaCl + CO2 + NaClO3
+R1080: Cl2 + Cs -> CsCl
+R1081: Cl2 + NO2 -> NO2Cl
+R1082: Cl2 + SCl2 -> SCl4
+R1083: C4H6 + Cl2 -> C4H6Cl2
+R1084: Cl2 + Ni -> NiCl2
+R1085: C2H4 + Cl2 -> C2H4Cl2
+R1086: Cl2 + C5H12 -> HCl + C5H11Cl
+R1087: Cl2 + C2S -> CCl4 + S2Cl2
+R1088: AgBR + Cl2 -> AgCl + BR2
+R1089: Cl2 + CH3CH2COOH -> HCl + CH3CHClCOOH
+R1090: C2H4 + Cl2 -> HCl + C2H3Cl
+R1091: Cl2 + B4H10 -> HCl + BCl3
+R1092: Cl2 + HCN -> HCl + CNCl
+R1093: C2H5OH + Cl2 -> HCl + CCl3CHO
+R1094: C2H6 + 2Cl2 -> 2HCl + C2H4Cl2
+R1095: C6H6 + Cl2 -> HCl + C6Cl6
+R1096: Cl2 + FeBR2 -> FeBR3 + FeCl3
+R1097: C + Cl2 + SiO2 -> CO + SiCl4.
+R1098: Cl2 + K2CO3 -> KCl + KClO + CO2
+R1099: Cl2 + H2O + SO2 -> H2SO4 + HCl
+R1100: Ca(OH)2 + Cl2 -> H2O + CaCl2 + Ca(OCl)2
+R1101: Cl2 + Na2CO3 -> NaCl + CO2 + NaClO3
+R1102: Cl2 + AgClO3 -> AgCl + O2 + ClO2
+R1103: Cl2 + H2O + Na2SO3 -> HCl + Na2SO4
+R1104: Cl2 + H2O + Na2S -> HCl + Na2SO4
+R1105: AgNO3 + Cl2 + H2O -> AgCl + HNO3 + HClO3
+R1106: Cl2 + NaOH + Na[CR(OH)4] -> H2O + NaCl +Na2CRO4
+R1107: Cl2 + NaOH + NaCRO2 -> H2O + NaCl + Na2CRO4
+R1108: Cl2 + KOH + CRCl3 -> H2O + KCl + K2CRO4
+R1109: Cl2 + NaOH + Na2S2O3.5H2O -> H2O + NaCl + Na2S2O6
+R1110: Cl2 + KOH + K2S2O3 -> H2O + KCl + K2SO4
+R1111: Cl2 + KOH + KCRO2 -> H2O + KCl + K2CRO4
+R1112: Cl2 + KOH + Mn(OH)2 -> H2O + KCl + MnO2
+R1113: Cl2 + H2O + KSO2F -> H2SO4 + HCl + KCl + SO2F2
+R1116: Al + BR2 -> AlBR3
+R1117: BR2 + C6H6 -> C6H5BR + HBR
+R1118: BR2 + C2H4 -> C2H4BR2
+R1119: BR2 + H2 -> HBR
+R1120: BR2 + NaI -> I2 + NaBR
+R1121: BR2 + C2H2 -> C2H2BR2
+R1122: BR2 + C2H2 -> C2H2BR4
+R1123: BR2 + KClO3 -> Cl2 + KBRO3
+R1124: BR2 + KI -> I2 + KBR
+R1125: BR2 + AgI -> AgBR + I2
+R1126: BR2 + FeSO4 -> Fe2(SO4)3 + FeBR3
+R1127: BR2 + H2O -> HBRO + HBR
+R1128: BR2 + H2S -> S + HBR
+R1129: BR2 + HI -> I2 + HBR
+R1130: BR2 + NH3 -> N2 + HBR
+R1131: BR2 + K2CO3 -> KBR + CO2 + KBRO3
+R1132: BR2 + C2H6 -> C2H5BR + HBR
+R1133: BR2 + H2O + SO2 -> H2SO4 + HBR
+R1134: BR2 + NaOH + CRBR2 -> H2O + Na2CRO4 + NaBR
+R1135: BR2 + I2 -> 2IbR
+R1136: BR2 + C6H5NH2 -> C6H2BR3NH2 + HBR
+R1137: BR2 + C6H5OH -> C6H2BR3OH + 3HBR
+R1138: BR2 + CnH2n_6 -> CnH2n_7BR + HBR
+R1139: BR2 + CH4 -> CH3BR + HBR
+R1140: BR2 + Cl2 + H2O -> HCl + HBRO3
+R1141: BR2 + NaOH + NaCRO2 -> H2O + Na2CRO4 + NaBR
+R1142: BR2 + Ni -> NiBR2
+R1143: BR2 + C6H5CH3 -> C6H5CH2BR + HBR
+R1144: BR2 + H2O + H2SO3 -> H2SO4 + HBR
+R1145: BR2 + Fe -> FeBR3
+R1146: BR2 + Li -> LiBR
+R1147: BR2 + F2 -> BRF
+R1148: BR2 + Na -> NaBR
+R1149: BR2 + Fe -> FeBR2
+R1150: BR2 + Cu -> CuBR2
+R1151: BR2 + PBR3 -> PBR5
+R1152: BR2 + P4 -> PBR3
+R1153: BR2 + K -> KBR
+R1154: BR2 + Hf -> HfBR4
+R1155: BR2 + Hg -> HgBR2
+R1156: BR2 + F2 -> BRF3
+R1157: BR2 + Cs -> CsBR
+R1158: BR2 + C3H6 -> C3H6BR2
+R1159: BR2 + Bi -> BiBR3
+R1160: BR2 + C4H6 -> C4H6BR2
+R1161: BR2 + C3H4 -> C3H4BR4
+R1162: BR2 + Ca -> CaBR2
+R1163: BR2 + Yb -> YbBR3
+R1164: BR2 + C4H6 -> C4H6BR4
+R1165: Al + BR2 -> Al2BR6
+R1166: BR2 + C7H16 -> HBR + C7H15BR
+R1167: BR2 + C3H8 -> HBR + C3H7BR
+R1168: BR2 + FeCl2 -> FeBR3 + FeCl3
+R1169: BR2 + P4O6 -> O2 + PBR3O
+R1170: BR2 + CHCl3 -> HBR + CBRCl3
+R1171: BR2 + C6H6 -> HCl + C6H5BR
+R1172: BR2 + Na2S -> S + NaBR
+R1173: BR2 + CH4 -> HBR + CHBR3
+R1174: BR2 + K2S -> KBR + S
+R1175: BR2 + K2S2 -> KBR + S
+R1176: BR2 + H2O + I2 -> HIO3 + HBR
+R1177: BR2 + H2O + AgBRO3 -> AgBR + HBRO3
+R1178: BR2 + NaOH -> H2O + NaBRO3 + NaBR
+R1179: BR2 + Na2CO3 -> CO2 + NaBRO3 + NaBR
+R1180: BR2 + HNO3 -> H2O + NO2 + HBRO3
+R1181: BR2 + CH3CHO + H2O -> CH3COOH + HBR
+R1182: BR2 + C6H12O6 + H2O -> HBR + C6H12O7
+R1183: BR2 + S + D2O -> DBR + D2SO4
+R1184: BR2 + H2O + P -> H3PO4 + HBR
+R1185: BR2 + H2O + KClO -> KCl + HBRO3
+R1186: BR2 + NaOH -> H2O + NaBRO + NaBR
+R1187: BR2 + H2O + Na2SO3 -> Na2SO4 + HBR
+R1188: BR2 + H2O + H2S -> H2SO4 + HBR
+R1189: BR2 + NaOH + CR(OH)3 -> H2O + Na2CRO4 + NaBR
+R1190: BR2 + NaOH + Na[CR(OH)4] -> H2O + Na2CRO4 + NaBR
+R1191: BR2 + KOH + KCRO2 -> H2O + K2CRO4 + NaBR
+R1192: BR2 + KOH + Na2CRO2 -> H2O + KBR + Na2CRO4
+R1193: BR2 + NaOH + Na3[CR(OH)6] -> H2O + Na2CRO4 + NaBR
+R1194: BR2 + NaOH + CR2(SO4)3 -> H2O + Na2SO4 + Na2CRO4 + NaBR
+R1195: BR2 + NaOH + CRCl3 -> H2O + NaCl + Na2CRO4 + NaBR
+R1196: BR2 + H2O + KSO2F -> H2SO4 + KBR + HBR + SO2F2
+R1198: H2 + I2 -> HI
+R1199: Al + I2 -> AlI3
+R1200: I2 + KClO3 -> Cl2 + KIO3
+R1201: I2 + Na2S2O3 -> NaI + Na2S4O6
+R1202: AgNO3 + I2 -> AgI + INO3
+R1203: H2S + I2 -> HI + 2S
+R1204: Cl2 + H2O + I2 -> HCl + HIO3
+R1205: I2 + 2K -> 2KI
+R1206: C6H6 + I2 -> HI + C6H5I
+R1207: BR2 + I2 -> 2IbR
+R1208: I2 + Hf -> HfI4
+R1209: F2 + I2 -> IF5
+R1210: Cl2 + I2 -> Icl
+R1211: Fe + I2 -> FeI2
+R1212: I2 + Na -> NaI
+R1213: I2 + P -> PI3
+R1214: I2 + La -> LaI3
+R1215: I2 + Si -> SiI4
+R1216: Cl2 + I2 -> I2Cl6
+R1217: CR + I2 -> CRI2
+R1218: I2 + H3As -> HI + AsI3
+R1219: I2 + KRF2 -> KR + IF7
+R1220: I2 + P + D2O -> DI + D3PO4
+R1221: H2O + HgO + I2 -> HgI2 + HIO
+R1222: HCl + HNO3 + I2 -> H2O + NO + Icl
+R1223: Ca + I2 -> CaI2
+R1224: I2 + Bi -> BiI3
+R1225: I2 + KI -> KI3
+R1226: I2 + PR -> PRI3
+R1227: Hg + I2 -> HgI2
+R1228: I2 + O2 -> I2O5
+R1229: I2 + Zn -> ZnI2
+R1230: I2 + NH4I -> NH4I3
+R1231: CR + I2 -> CRI3
+R1232: I2 + NaBRO3 -> BR2 + NaIO3
+R1233: I2 + HClO3 -> Cl2 + HIO3
+R1234: I2 + KBRO3 -> BR2 + KIO3
+R1235: I2 + CHCl3 -> Cl2 + CHI3
+R1236: H2O2 + I2 -> H2O + HIO3
+R1237: I2 + HBRO3 -> BR2 + HIO3
+R1238: H2O + I2 -> HI + HIO
+R1239: I2 + Cl2O7 -> Cl2 + I2O5
+R1240: I2 + N2H4 -> HI + N2
+R1241: I2 + (NH4)2S2O3 -> NH4I + (NH4)2S4O6
+R1242: I2 + KBRO4 -> BR2 + KIO4
+R1243: HNO3 + I2 -> H2O + NO + HIO3
+R1244: BR2 + H2O + I2 -> HIO3 + HBR
+R1245: I2 + Ba(OH)2 -> H2O + Ba(IO3)2 + BaI2
+R1246: I2 + KOH -> H2O + KI + KIO3
+R1247: I2 + NH4OH -> H2O + NH4I + I3N
+R1248: I2 + KOH -> H2O + KI + KIO
+R1249: I2 + NaOH -> H2O + NaI + NaIO
+R1250: H2O + I2 + SO2 -> H2SO4 + HI
+R1251: H2O + I2 + Na2N2O2 -> HI + NaNO2 + NaNO3
+R1252: I2 + NH4OH + (NH4)2SO3 -> (NH4)2SO4 + H2O + NH4I
+R1253: I2 + KOH + N2H4.H2SO4 -> H2O + KI + N2 + K2SO4
+R1254: NA + H2O -> NAOH + H2
